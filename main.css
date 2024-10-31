@@ -1,0 +1,16 @@
+* {
+  color: #E6EED6;
+  background: #010105;
+}
+
+h1 {
+  color: #a72608;
+}
+
+a {
+  color: #F48C06;
+}
+
+a:hover {
+  color: #FFBA08;
+}
